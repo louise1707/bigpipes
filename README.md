@@ -1,3 +1,6 @@
 Rapscallion
 Whippersnapper
 Vagabond
+pirates
+lizards
+snakes
